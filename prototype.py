@@ -49,7 +49,7 @@ if accept_privacy:
     bevestig = st.button("Bevestig gegevens")
 
     #test
-    bevestig = True
+    # bevestig = True
 
     #Geef samenvatting weer van de gegevens
     if bevestig:
