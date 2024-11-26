@@ -36,7 +36,7 @@ st.text("Onderzoek info, Privacy blabla Lorem ipsum dolor sit amet, consectetur 
 accept_privacy = st.checkbox("Ik ga akkoord met de privacyvoorwaarden")
 
 # test
-accept_privacy = True
+# accept_privacy = True
 
 # Verzamel gebruikersinformatie
 if accept_privacy:
